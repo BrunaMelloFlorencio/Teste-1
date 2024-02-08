@@ -1,0 +1,15 @@
+---
+title: "Dia 1"
+author: "Bruna Florêncio"
+format: html
+---
+
+\$\$
+
+| Col1 | Col2 | Col3 |
+|------|------|------|
+|      |      |      |
+|      |      |      |
+|      |      |      |
+
+\$\$
